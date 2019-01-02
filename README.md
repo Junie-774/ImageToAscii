@@ -7,11 +7,17 @@ ImageToAscii is a program that takes images and turns them into ascii art
 
 # Installation instructions
 - Configure the build
-`mkdir build
-`cd build
-`cmake ..
+
+  `mkdir build`
+
+  `cd build`
+
+  `cmake ..`
+
 - Build the project
-`make
+
+  `make`
+
 - Done! you now have an executable which can turn images into ascii art!
 
 # Usage
