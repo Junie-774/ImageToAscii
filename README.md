@@ -21,9 +21,12 @@ ImageToAscii is a program that takes images and turns them into ascii art
 - Done! you now have an executable which can turn images into ascii art!
 
 # Usage
-`./ImageToAscii <options> <image file> <more options>
+
+`./ImageToAscii <options> <image file> <more options>`
+
 For example:
-`./ImageToAscii -d 50x50 imagefile.jpg -i
+
+`./ImageToAscii -d 50x50 imagefile.jpg -i`
 
 Here are the possible options you can use:
 
