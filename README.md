@@ -37,7 +37,7 @@ Here are the possible options you can use:
 
   Usage: `-d <width>x<height>`, `--dimensions <width>x<height>`
 
-  Example: `./ImageToAscii -d 50x50 imagefile.jpg
+  Example: `./ImageToAscii -d 50x50 imagefile.jpg`
 
 - `-w`, `--width`
   Set the width of the ascii art, maintaining the aspect ratio of the image
@@ -52,7 +52,7 @@ Here are the possible options you can use:
 
   Usage: `-h <height>`
 
-  Example: `./ImageToAscii -w 50 imagefile.jpg
+  Example: `./ImageToAscii -w 50 imagefile.jpg`
 
 - `-i`, `--invert`
 
